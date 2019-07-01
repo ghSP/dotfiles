@@ -1,0 +1,7 @@
+[user]
+  # User stuff
+[alias]
+  gs = status -sb
+  aa = add .
+  cm = commit
+  lg = log --pretty=oneline
