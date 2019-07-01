@@ -1,0 +1,7 @@
+#!/usr/bin/env sh
+
+# This installs things for every node install with nvm
+
+npm install -g node-dev
+npm install -g eslint
+npm install -g mocha

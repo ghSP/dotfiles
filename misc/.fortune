@@ -1,0 +1,5 @@
+#!/usr/bin/env node
+const ft = require('fortune-teller');
+console.log(ft.fortune());
+
+// Usually piped into cowsay

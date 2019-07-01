@@ -9,6 +9,8 @@ alias ls='ls -a'
 alias ll='ls -l'
 alias list='ls -aR'
 
+alias fortune='~/.fortune'
+
 function mk() {  # mkdir and cd into it
 	mkdir -p $1
 	cd $1
